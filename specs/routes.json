@@ -1,0 +1,11 @@
+[
+  {
+    "path": "overview",
+    "charts": [
+      "elc-capacity",
+      "elc-new-capacity",
+      "elc-generation",
+      "elc-consumption"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "path": "*",
+    "links": [{ "to": "overview", "text": "Overview" }],
+    "variant": "tabs"
+  }
+]
