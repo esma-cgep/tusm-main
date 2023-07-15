@@ -1,6 +1,6 @@
 # Welcome
 
-Here you can explore [results](/results) generated using [TUSM](https://github.com/esma-cgep/tusm)
+Here you can explore [results](/tusm-main/results) generated using [TUSM](https://github.com/esma-cgep/tusm)
 
 Last update: July 15th, 2023
 
