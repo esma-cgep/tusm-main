@@ -1,3 +1,13 @@
 {
-  "PRC_ELC_COA": "Coal"
+  "PRC_ELC_BSL": "Biomass",
+  "PRC_ELC_COA": "Coal",
+  "PRC_ELC_GAS": "Natural Gas",
+  "PRC_ELC_GEO": "Geothermal",
+  "PRC_ELC_HYD": "Hydro",
+  "PRC_ELC_MSW": "MSW",
+  "PRC_ELC_NUC": "Nuclear",
+  "PRC_ELC_SPV": "Solar PV",
+  "PRC_ELC_STH": "Solar Thermal",
+  "PRC_ELC_WNF": "Wind Offshore",
+  "PRC_ELC_WNO": "Wind Onshore"
 }
