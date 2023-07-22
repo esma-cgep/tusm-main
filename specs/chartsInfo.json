@@ -1,4 +1,33 @@
 {
+  "elc-capacity": {
+    "seriesNames": [
+      "PRC_ELC_COA",
+      "PRC_ELC_GAS",
+      "PRC_ELC_GEO",
+      "PRC_ELC_HYD",
+      "PRC_ELC_MSW",
+      "PRC_ELC_NUC",
+      "PRC_ELC_SPV",
+      "PRC_ELC_STH",
+      "PRC_ELC_WNF",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#080808",
+      "#C0C0C0",
+      "#E97369",
+      "#186BA1",
+      "#142458",
+      "#7D39C0",
+      "#EABE3B",
+      "#F7F4BF",
+      "#19ABDE",
+      "#1AC9E6"
+    ],
+    "unit": "GW",
+    "maxY": 1095,
+    "minY": 0
+  },
   "elc-consumption": {
     "seriesNames": [
       "PRC_ELC_BSL",
@@ -27,7 +56,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 47578,
+    "maxY": 47876,
     "minY": 0
   },
   "elc-generation": {
@@ -58,42 +87,12 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 18521,
-    "minY": 0
-  },
-  "elc-capacity": {
-    "seriesNames": [
-      "PRC_ELC_COA",
-      "PRC_ELC_GAS",
-      "PRC_ELC_GEO",
-      "PRC_ELC_HYD",
-      "PRC_ELC_MSW",
-      "PRC_ELC_NUC",
-      "PRC_ELC_SPV",
-      "PRC_ELC_STH",
-      "PRC_ELC_WNF",
-      "PRC_ELC_WNO"
-    ],
-    "colorScale": [
-      "#080808",
-      "#C0C0C0",
-      "#E97369",
-      "#186BA1",
-      "#142458",
-      "#7D39C0",
-      "#EABE3B",
-      "#F7F4BF",
-      "#19ABDE",
-      "#1AC9E6"
-    ],
-    "unit": "GW",
-    "maxY": 1118,
+    "maxY": 18375,
     "minY": 0
   },
   "elc-new-capacity": {
     "seriesNames": [
       "PRC_ELC_GAS",
-      "PRC_ELC_GEO",
       "PRC_ELC_HYD",
       "PRC_ELC_MSW",
       "PRC_ELC_SPV",
@@ -101,14 +100,13 @@
     ],
     "colorScale": [
       "#C0C0C0",
-      "#E97369",
       "#186BA1",
       "#142458",
       "#EABE3B",
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 80,
+    "maxY": 115,
     "minY": 0
   }
 }

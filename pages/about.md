@@ -1,7 +1,7 @@
-# Welcome
+# Welcome!
 
 Here you can explore [results](/tusm-main/results) generated using [TUSM](https://github.com/esma-cgep/tusm)
 
-Last update: July 15th, 2023
+Last update: July 21th, 2023
 
-Model version: https://github.com/esma-cgep/TUSM/tree/978121f69d6dabe2b2c14bbb6ee839666b26b9b6
+Model version: [9a5e3615](https://github.com/esma-cgep/TUSM/tree/9a5e361578dea916513e3bfb325037412bfb3af5)
