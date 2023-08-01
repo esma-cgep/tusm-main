@@ -3,9 +3,16 @@
     "path": "overview",
     "charts": [
       "elc-capacity",
-      "elc-new-capacity",
+      "elc-capacity-new",
       "elc-generation",
-      "elc-consumption"
+	  "elc-generation-type",
+      "elc-consumption",
+	  "elc-price-electricity-max",
+	  "elc-price-electricity-mean",
+	  "elc-price-electricity-min",
+	  "sys-costs-annual",
+	  "sys-costs-lumpy",
+	  "sys-emissions-co2"
     ]
   }
 ]

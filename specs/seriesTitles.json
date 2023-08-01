@@ -1,4 +1,13 @@
 {
+  "Cost_Act": "VAROM",
+  "Cost_Flo": "Commodity flow",
+  "Cost_Fom": "FIXOM",
+  "Cost_Inv": "Investment",
+  "Cost_ire": "Trade",
+  "ELCC": "Electricity",
+  "ELE": "Electricity only",
+  "ENV_CO2_ELC": "Electricity generation",
+  "LUMPINV": "Lumpy investments",
   "PRC_ELC_BSL": "Biomass",
   "PRC_ELC_COA": "Coal",
   "PRC_ELC_GAS": "Natural Gas",
@@ -9,5 +18,6 @@
   "PRC_ELC_SPV": "Solar PV",
   "PRC_ELC_STH": "Solar Thermal",
   "PRC_ELC_WNF": "Wind Offshore",
-  "PRC_ELC_WNO": "Wind Onshore"
+  "PRC_ELC_WNO": "Wind Onshore",
+  "STG": "Storage"
 }

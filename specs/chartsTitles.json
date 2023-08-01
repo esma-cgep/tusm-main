@@ -1,6 +1,13 @@
 {
   "elc-capacity": "Generation Capacity",
+  "elc-capacity-new": "New Generation Capacity",
   "elc-consumption": "Generation Input",
   "elc-generation": "Electricity Generation",
-  "elc-new-capacity": "New Generation Capacity"
+  "elc-generation-type": "Electricity Generation by Type",
+  "elc-price-electricity-max": "Electricity Price (Max)",
+  "elc-price-electricity-mean": "Electricity Price (Mean)",
+  "elc-price-electricity-min": "Electricity Price (Min)",
+  "sys-costs-annual": "Annualised System Costs by Type",
+  "sys-costs-lumpy": "Lump Sum Investment Cost",
+  "sys-emissions-co2": "CO2 Emissions by Sector"
 }

@@ -1,4 +1,80 @@
 {
+  "sys-costs-annual": {
+    "seriesNames": [
+      "Cost_Act",
+      "Cost_Flo",
+      "Cost_Fom",
+      "Cost_Inv",
+      "Cost_ire"
+    ],
+    "colorScale": [
+      "#78B794",
+      "#B639AD",
+      "#D02FAA",
+      "#32A433",
+      "#274177"
+    ],
+    "unit": "MEUR",
+    "maxY": 195963,
+    "minY": -433112
+  },
+  "elc-price-electricity-max": {
+    "seriesNames": [
+      "ELCC"
+    ],
+    "colorScale": [
+      "#587BF9"
+    ],
+    "unit": "MEUR/PJ",
+    "maxY": 109,
+    "minY": 0
+  },
+  "elc-price-electricity-mean": {
+    "seriesNames": [
+      "ELCC"
+    ],
+    "colorScale": [
+      "#587BF9"
+    ],
+    "unit": "MEUR/PJ",
+    "maxY": 5,
+    "minY": 0
+  },
+  "elc-price-electricity-min": {
+    "seriesNames": [
+      "ELCC"
+    ],
+    "colorScale": [
+      "#587BF9"
+    ],
+    "unit": "MEUR/PJ",
+    "maxY": 1,
+    "minY": 0
+  },
+  "elc-generation-type": {
+    "seriesNames": [
+      "ELE",
+      "STG"
+    ],
+    "colorScale": [
+      "#9147E1",
+      "#83BE87"
+    ],
+    "unit": "PJ",
+    "maxY": 43568,
+    "minY": 0
+  },
+  "sys-emissions-co2": {
+    "seriesNames": [
+      "ENV_CO2_ELC"
+    ],
+    "colorScale": [
+      "#92B45C"
+    ],
+    "unit": "kt",
+    "maxY": 2502562,
+    "minY": 0
+  },
   "elc-capacity": {
     "seriesNames": [
       "PRC_ELC_COA",
@@ -25,7 +101,7 @@
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 1095,
+    "maxY": 1104,
     "minY": 0
   },
   "elc-consumption": {
@@ -56,7 +132,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 47876,
+    "maxY": 50074,
     "minY": 0
   },
   "elc-generation": {
@@ -87,10 +163,10 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 18375,
+    "maxY": 19385,
     "minY": 0
   },
-  "elc-new-capacity": {
+  "elc-capacity-new": {
     "seriesNames": [
       "PRC_ELC_GAS",
       "PRC_ELC_HYD",
@@ -106,7 +182,18 @@
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 115,
+    "maxY": 62,
+    "minY": 0
+  },
+  "sys-costs-lumpy": {
+    "seriesNames": [
+      "LUMPINV"
+    ],
+    "colorScale": [
+      "#6BAD60"
+    ],
+    "unit": "MEUR",
+    "maxY": 100191,
     "minY": 0
   }
 }
