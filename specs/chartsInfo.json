@@ -14,9 +14,9 @@
       "#32A433",
       "#274177"
     ],
-    "unit": "MEUR",
-    "maxY": 195963,
-    "minY": -433112
+    "unit": "MUSD",
+    "maxY": 18072095,
+    "minY": -434650
   },
   "elc-price-electricity-max": {
     "seriesNames": [
@@ -25,8 +25,8 @@
     "colorScale": [
       "#587BF9"
     ],
-    "unit": "MEUR/PJ",
-    "maxY": 109,
+    "unit": "MUSD/PJ",
+    "maxY": 2339,
     "minY": 0
   },
   "elc-price-electricity-mean": {
@@ -36,8 +36,8 @@
     "colorScale": [
       "#587BF9"
     ],
-    "unit": "MEUR/PJ",
-    "maxY": 5,
+    "unit": "MUSD/PJ",
+    "maxY": 2327,
     "minY": 0
   },
   "elc-price-electricity-min": {
@@ -47,8 +47,8 @@
     "colorScale": [
       "#587BF9"
     ],
-    "unit": "MEUR/PJ",
-    "maxY": 1,
+    "unit": "MUSD/PJ",
+    "maxY": 2111,
     "minY": 0
   },
   "elc-generation-type": {
@@ -61,7 +61,7 @@
       "#83BE87"
     ],
     "unit": "PJ",
-    "maxY": 43568,
+    "maxY": 43967,
     "minY": 0
   },
   "sys-emissions-co2": {
@@ -72,7 +72,7 @@
       "#92B45C"
     ],
     "unit": "kt",
-    "maxY": 2502562,
+    "maxY": 2505355,
     "minY": 0
   },
   "elc-capacity": {
@@ -101,7 +101,7 @@
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 1104,
+    "maxY": 2118,
     "minY": 0
   },
   "elc-consumption": {
@@ -132,7 +132,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 50074,
+    "maxY": 50123,
     "minY": 0
   },
   "elc-generation": {
@@ -163,26 +163,34 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 19385,
+    "maxY": 19405,
     "minY": 0
   },
   "elc-capacity-new": {
     "seriesNames": [
+      "PRC_ELC_COA",
       "PRC_ELC_GAS",
+      "PRC_ELC_GEO",
       "PRC_ELC_HYD",
       "PRC_ELC_MSW",
+      "PRC_ELC_NUC",
       "PRC_ELC_SPV",
+      "PRC_ELC_WNF",
       "PRC_ELC_WNO"
     ],
     "colorScale": [
+      "#080808",
       "#C0C0C0",
+      "#E97369",
       "#186BA1",
       "#142458",
+      "#7D39C0",
       "#EABE3B",
+      "#19ABDE",
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 62,
+    "maxY": 645,
     "minY": 0
   },
   "sys-costs-lumpy": {
@@ -192,8 +200,8 @@
     "colorScale": [
       "#6BAD60"
     ],
-    "unit": "MEUR",
-    "maxY": 100191,
+    "unit": "MUSD",
+    "maxY": 853777,
     "minY": 0
   }
 }

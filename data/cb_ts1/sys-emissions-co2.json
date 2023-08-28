@@ -1,0 +1,14 @@
+{
+  "name": "cb_ts1",
+  "data": [
+    {
+      "seriesName": "ENV_CO2_ELC",
+      "seriesValues": [
+        [
+          2020,
+          21596.883470800007
+        ]
+      ]
+    }
+  ]
+}
