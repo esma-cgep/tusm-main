@@ -15,8 +15,8 @@
       "#274177"
     ],
     "unit": "MUSD",
-    "maxY": 18072095,
-    "minY": -434650
+    "maxY": 18072093,
+    "minY": -433780
   },
   "elc-price-electricity-max": {
     "seriesNames": [
@@ -61,7 +61,7 @@
       "#83BE87"
     ],
     "unit": "PJ",
-    "maxY": 43967,
+    "maxY": 43576,
     "minY": 0
   },
   "sys-emissions-co2": {
@@ -72,7 +72,7 @@
       "#92B45C"
     ],
     "unit": "kt",
-    "maxY": 2505355,
+    "maxY": 2503775,
     "minY": 0
   },
   "elc-capacity": {
@@ -132,7 +132,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 50123,
+    "maxY": 50095,
     "minY": 0
   },
   "elc-generation": {
@@ -163,7 +163,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 19405,
+    "maxY": 19393,
     "minY": 0
   },
   "elc-capacity-new": {
