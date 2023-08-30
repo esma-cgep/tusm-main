@@ -15,8 +15,8 @@
       "#274177"
     ],
     "unit": "MUSD",
-    "maxY": 18072093,
-    "minY": -433780
+    "maxY": 18056631,
+    "minY": -31683
   },
   "elc-price-electricity-max": {
     "seriesNames": [
@@ -53,15 +53,13 @@
   },
   "elc-generation-type": {
     "seriesNames": [
-      "ELE",
-      "STG"
+      "ELE"
     ],
     "colorScale": [
-      "#9147E1",
-      "#83BE87"
+      "#9147E1"
     ],
     "unit": "PJ",
-    "maxY": 43576,
+    "maxY": 18949,
     "minY": 0
   },
   "sys-emissions-co2": {
@@ -72,36 +70,7 @@
       "#92B45C"
     ],
     "unit": "kt",
-    "maxY": 2503775,
-    "minY": 0
-  },
-  "elc-capacity": {
-    "seriesNames": [
-      "PRC_ELC_COA",
-      "PRC_ELC_GAS",
-      "PRC_ELC_GEO",
-      "PRC_ELC_HYD",
-      "PRC_ELC_MSW",
-      "PRC_ELC_NUC",
-      "PRC_ELC_SPV",
-      "PRC_ELC_STH",
-      "PRC_ELC_WNF",
-      "PRC_ELC_WNO"
-    ],
-    "colorScale": [
-      "#080808",
-      "#C0C0C0",
-      "#E97369",
-      "#186BA1",
-      "#142458",
-      "#7D39C0",
-      "#EABE3B",
-      "#F7F4BF",
-      "#19ABDE",
-      "#1AC9E6"
-    ],
-    "unit": "GW",
-    "maxY": 2118,
+    "maxY": 1772446,
     "minY": 0
   },
   "elc-consumption": {
@@ -132,7 +101,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 50095,
+    "maxY": 39018,
     "minY": 0
   },
   "elc-generation": {
@@ -163,7 +132,36 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 19393,
+    "maxY": 18946,
+    "minY": 0
+  },
+  "elc-capacity": {
+    "seriesNames": [
+      "PRC_ELC_COA",
+      "PRC_ELC_GAS",
+      "PRC_ELC_GEO",
+      "PRC_ELC_HYD",
+      "PRC_ELC_MSW",
+      "PRC_ELC_NUC",
+      "PRC_ELC_SPV",
+      "PRC_ELC_STH",
+      "PRC_ELC_WNF",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#080808",
+      "#C0C0C0",
+      "#E97369",
+      "#186BA1",
+      "#142458",
+      "#7D39C0",
+      "#EABE3B",
+      "#F7F4BF",
+      "#19ABDE",
+      "#1AC9E6"
+    ],
+    "unit": "GW",
+    "maxY": 1873,
     "minY": 0
   },
   "elc-capacity-new": {
@@ -201,7 +199,7 @@
       "#6BAD60"
     ],
     "unit": "MUSD",
-    "maxY": 853777,
+    "maxY": 853740,
     "minY": 0
   }
 }
