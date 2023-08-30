@@ -201,5 +201,193 @@
     "unit": "MUSD",
     "maxY": 853740,
     "minY": 0
+  },
+  "elc-consumption-chromium": {
+    "seriesNames": [
+      "PRC_ELC_GAS",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#C0C0C0",
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 226,
+    "minY": 0
+  },
+  "elc-consumption-cobalt": {
+    "seriesNames": [
+      "PRC_ELC_GAS"
+    ],
+    "colorScale": [
+      "#C0C0C0"
+    ],
+    "unit": "kt",
+    "maxY": 0,
+    "minY": 0
+  },
+  "elc-consumption-copper": {
+    "seriesNames": [
+      "PRC_ELC_GAS",
+      "PRC_ELC_SPV",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#C0C0C0",
+      "#EABE3B",
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 1859,
+    "minY": 0
+  },
+  "elc-consumption-nickel": {
+    "seriesNames": [
+      "PRC_ELC_GAS",
+      "PRC_ELC_SPV",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#C0C0C0",
+      "#EABE3B",
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 195,
+    "minY": 0
+  },
+  "elc-consumption-cadmium": {
+    "seriesNames": [
+      "PRC_ELC_SPV"
+    ],
+    "colorScale": [
+      "#EABE3B"
+    ],
+    "unit": "kt",
+    "maxY": 1,
+    "minY": 0
+  },
+  "elc-consumption-galium": {
+    "seriesNames": [
+      "PRC_ELC_SPV"
+    ],
+    "colorScale": [
+      "#EABE3B"
+    ],
+    "unit": "kt",
+    "maxY": 0,
+    "minY": 0
+  },
+  "elc-consumption-oth": {
+    "seriesNames": [
+      "PRC_ELC_SPV"
+    ],
+    "colorScale": [
+      "#EABE3B"
+    ],
+    "unit": "kt",
+    "maxY": 5,
+    "minY": 0
+  },
+  "elc-consumption-silicon": {
+    "seriesNames": [
+      "PRC_ELC_SPV"
+    ],
+    "colorScale": [
+      "#EABE3B"
+    ],
+    "unit": "kt",
+    "maxY": 647,
+    "minY": 0
+  },
+  "elc-consumption-tellurium": {
+    "seriesNames": [
+      "PRC_ELC_SPV"
+    ],
+    "colorScale": [
+      "#EABE3B"
+    ],
+    "unit": "kt",
+    "maxY": 1,
+    "minY": 0
+  },
+  "elc-consumption-zinc": {
+    "seriesNames": [
+      "PRC_ELC_SPV",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#EABE3B",
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 2653,
+    "minY": 0
+  },
+  "elc-consumption-dysprosium": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 8,
+    "minY": 0
+  },
+  "elc-consumption-manganese": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 376,
+    "minY": 0
+  },
+  "elc-consumption-molybdenum": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 48,
+    "minY": 0
+  },
+  "elc-consumption-neodymium": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 50,
+    "minY": 0
+  },
+  "elc-consumption-praseodymium": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 13,
+    "minY": 0
+  },
+  "elc-consumption-rare-earth": {
+    "seriesNames": [
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#1AC9E6"
+    ],
+    "unit": "kt",
+    "maxY": 7,
+    "minY": 0
   }
 }
