@@ -12,7 +12,11 @@
       "elc-price-electricity-min",
       "sys-costs-annual",
       "sys-costs-lumpy",
-      "sys-emissions-co2"
+      "sys-emissions-co2",
+      "sys-nrg-export",
+      "sys-nrg-import",
+      "sys-nrg-indigenous-supply",
+      "sys-primary-energy-demand"
     ]
   },
   {
