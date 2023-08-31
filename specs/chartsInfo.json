@@ -15,8 +15,8 @@
       "#274177"
     ],
     "unit": "MUSD",
-    "maxY": 18056631,
-    "minY": -31683
+    "maxY": 18072127,
+    "minY": -21278
   },
   "elc-price-electricity-max": {
     "seriesNames": [
@@ -70,7 +70,36 @@
       "#92B45C"
     ],
     "unit": "kt",
-    "maxY": 1772446,
+    "maxY": 1771503,
+    "minY": 0
+  },
+  "elc-capacity": {
+    "seriesNames": [
+      "PRC_ELC_COA",
+      "PRC_ELC_GAS",
+      "PRC_ELC_GEO",
+      "PRC_ELC_HYD",
+      "PRC_ELC_MSW",
+      "PRC_ELC_NUC",
+      "PRC_ELC_SPV",
+      "PRC_ELC_STH",
+      "PRC_ELC_WNF",
+      "PRC_ELC_WNO"
+    ],
+    "colorScale": [
+      "#080808",
+      "#C0C0C0",
+      "#E97369",
+      "#186BA1",
+      "#142458",
+      "#7D39C0",
+      "#EABE3B",
+      "#F7F4BF",
+      "#19ABDE",
+      "#1AC9E6"
+    ],
+    "unit": "GW",
+    "maxY": 1928,
     "minY": 0
   },
   "elc-consumption": {
@@ -101,7 +130,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 39018,
+    "maxY": 38051,
     "minY": 0
   },
   "elc-generation": {
@@ -133,35 +162,6 @@
     ],
     "unit": "PJ",
     "maxY": 18946,
-    "minY": 0
-  },
-  "elc-capacity": {
-    "seriesNames": [
-      "PRC_ELC_COA",
-      "PRC_ELC_GAS",
-      "PRC_ELC_GEO",
-      "PRC_ELC_HYD",
-      "PRC_ELC_MSW",
-      "PRC_ELC_NUC",
-      "PRC_ELC_SPV",
-      "PRC_ELC_STH",
-      "PRC_ELC_WNF",
-      "PRC_ELC_WNO"
-    ],
-    "colorScale": [
-      "#080808",
-      "#C0C0C0",
-      "#E97369",
-      "#186BA1",
-      "#142458",
-      "#7D39C0",
-      "#EABE3B",
-      "#F7F4BF",
-      "#19ABDE",
-      "#1AC9E6"
-    ],
-    "unit": "GW",
-    "maxY": 1873,
     "minY": 0
   },
   "elc-capacity-new": {
