@@ -25,5 +25,9 @@
   "elc-price-electricity-min": "Electricity Price (Min)",
   "sys-costs-annual": "Annualised System Costs by Type",
   "sys-costs-lumpy": "Lump Sum Investment Cost",
-  "sys-emissions-co2": "CO2 Emissions by Sector"
+  "sys-emissions-co2": "CO2 Emissions by Sector",
+  "sys-nrg-export": "Energy Export",
+  "sys-nrg-import": "Energy Import",
+  "sys-nrg-indigenous-supply": "Indigenous Supply of Energy",
+  "sys-primary-energy-demand": "Primary Energy Demand"
 }

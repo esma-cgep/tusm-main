@@ -1,4 +1,72 @@
 {
+  "sys-nrg-indigenous-supply": {
+    "seriesNames": [
+      "BSL",
+      "COA",
+      "GEO",
+      "MSW",
+      "NGA",
+      "NUC",
+      "RFO",
+      "SPV",
+      "STH",
+      "WAT",
+      "WNF",
+      "WNO"
+    ],
+    "colorScale": [
+      "#1BD5D4",
+      "#080808",
+      "#E97369",
+      "#142458",
+      "#C0C0C0",
+      "#7D39C0",
+      "#5F5F5F",
+      "#EABE3B",
+      "#F7F4BF",
+      "#186BA1",
+      "#19ABDE",
+      "#1AC9E6"
+    ],
+    "unit": "PJ",
+    "maxY": 38203,
+    "minY": 0
+  },
+  "sys-primary-energy-demand": {
+    "seriesNames": [
+      "BSL",
+      "COA",
+      "ELCC",
+      "GEO",
+      "MSW",
+      "NGA",
+      "NUC",
+      "RFO",
+      "SPV",
+      "STH",
+      "WAT",
+      "WNF",
+      "WNO"
+    ],
+    "colorScale": [
+      "#1BD5D4",
+      "#080808",
+      "#587BF9",
+      "#E97369",
+      "#142458",
+      "#C0C0C0",
+      "#7D39C0",
+      "#5F5F5F",
+      "#EABE3B",
+      "#F7F4BF",
+      "#186BA1",
+      "#19ABDE",
+      "#1AC9E6"
+    ],
+    "unit": "PJ",
+    "maxY": 38543,
+    "minY": -398
+  },
   "sys-costs-annual": {
     "seriesNames": [
       "Cost_Act",
@@ -49,6 +117,28 @@
     ],
     "unit": "MUSD/PJ",
     "maxY": 12,
+    "minY": 0
+  },
+  "sys-nrg-export": {
+    "seriesNames": [
+      "ELCC"
+    ],
+    "colorScale": [
+      "#587BF9"
+    ],
+    "unit": "PJ",
+    "maxY": 398,
+    "minY": 0
+  },
+  "sys-nrg-import": {
+    "seriesNames": [
+      "ELCC"
+    ],
+    "colorScale": [
+      "#587BF9"
+    ],
+    "unit": "PJ",
+    "maxY": 375,
     "minY": 0
   },
   "elc-generation-type": {
