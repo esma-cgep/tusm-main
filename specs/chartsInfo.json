@@ -15,7 +15,7 @@
       "#274177"
     ],
     "unit": "MUSD",
-    "maxY": 18072127,
+    "maxY": 189590,
     "minY": -21278
   },
   "elc-price-electricity-max": {
@@ -37,7 +37,7 @@
       "#587BF9"
     ],
     "unit": "MUSD/PJ",
-    "maxY": 2327,
+    "maxY": 62,
     "minY": 0
   },
   "elc-price-electricity-min": {
@@ -48,7 +48,7 @@
       "#587BF9"
     ],
     "unit": "MUSD/PJ",
-    "maxY": 2111,
+    "maxY": 12,
     "minY": 0
   },
   "elc-generation-type": {
@@ -59,7 +59,7 @@
       "#9147E1"
     ],
     "unit": "PJ",
-    "maxY": 18949,
+    "maxY": 18948,
     "minY": 0
   },
   "sys-emissions-co2": {
@@ -161,7 +161,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 18946,
+    "maxY": 18900,
     "minY": 0
   },
   "elc-capacity-new": {
@@ -188,7 +188,7 @@
       "#1AC9E6"
     ],
     "unit": "GW",
-    "maxY": 645,
+    "maxY": 172,
     "minY": 0
   },
   "sys-costs-lumpy": {
@@ -199,7 +199,7 @@
       "#6BAD60"
     ],
     "unit": "MUSD",
-    "maxY": 853740,
+    "maxY": 223107,
     "minY": 0
   },
   "elc-consumption-chromium": {
@@ -212,7 +212,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 226,
+    "maxY": 71,
     "minY": 0
   },
   "elc-consumption-cobalt": {
@@ -238,7 +238,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 1859,
+    "maxY": 465,
     "minY": 0
   },
   "elc-consumption-nickel": {
@@ -253,7 +253,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 195,
+    "maxY": 61,
     "minY": 0
   },
   "elc-consumption-cadmium": {
@@ -264,7 +264,7 @@
       "#EABE3B"
     ],
     "unit": "kt",
-    "maxY": 1,
+    "maxY": 0,
     "minY": 0
   },
   "elc-consumption-galium": {
@@ -286,7 +286,7 @@
       "#EABE3B"
     ],
     "unit": "kt",
-    "maxY": 5,
+    "maxY": 2,
     "minY": 0
   },
   "elc-consumption-silicon": {
@@ -297,7 +297,7 @@
       "#EABE3B"
     ],
     "unit": "kt",
-    "maxY": 647,
+    "maxY": 211,
     "minY": 0
   },
   "elc-consumption-tellurium": {
@@ -308,7 +308,7 @@
       "#EABE3B"
     ],
     "unit": "kt",
-    "maxY": 1,
+    "maxY": 0,
     "minY": 0
   },
   "elc-consumption-zinc": {
@@ -321,7 +321,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 2653,
+    "maxY": 825,
     "minY": 0
   },
   "elc-consumption-dysprosium": {
@@ -332,7 +332,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 8,
+    "maxY": 3,
     "minY": 0
   },
   "elc-consumption-manganese": {
@@ -343,7 +343,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 376,
+    "maxY": 117,
     "minY": 0
   },
   "elc-consumption-molybdenum": {
@@ -354,7 +354,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 48,
+    "maxY": 15,
     "minY": 0
   },
   "elc-consumption-neodymium": {
@@ -365,7 +365,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 50,
+    "maxY": 16,
     "minY": 0
   },
   "elc-consumption-praseodymium": {
@@ -376,7 +376,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 13,
+    "maxY": 4,
     "minY": 0
   },
   "elc-consumption-rare-earth": {
@@ -387,7 +387,7 @@
       "#1AC9E6"
     ],
     "unit": "kt",
-    "maxY": 7,
+    "maxY": 2,
     "minY": 0
   }
 }
